@@ -311,14 +311,14 @@ th.w-40 {
 }
 
 .navbar-pf .navbar-brand {
-  padding: 0;
-  height: 25px;
-  line-height: 56px;
-  background-position: center center;
-  background-image: url(../img/opensource-logo_admin.png);
-  background-size: 148px 30px;
-  background-repeat: no-repeat;
-  width: 99px;
+    padding: 0;
+    height: 56px;
+    line-height: 56px;
+    background-position: center center;
+    background-size: 120px 30px;
+    background-repeat: no-repeat;
+    width: 148px;
+    background-image: url(../img/opensource-logo_admin.png);
 }
 
 .navbar-pf .navbar-utility .dropdown-toggle {
