@@ -200,7 +200,7 @@ th.w-40 {
 
 
 .sidebar-pf-left{
-  background: #292e34;
+  background: #1b2b43;
 }
 
 .sidebar-pf .nav-pills > li a i, .sidebar-pf .nav-pills > li a span{
@@ -307,17 +307,18 @@ th.w-40 {
 
 .navbar-pf{
   border-top: none!important;
+  background-color: rgb(27 43 67);
 }
 
 .navbar-pf .navbar-brand {
   padding: 0;
-  height: 56px;
+  height: 25px;
   line-height: 56px;
   background-position: center center;
-  background-image: url('../img/keyclok-logo.png');
+  background-image: url(../img/opensource-logoNAVBAR.png);
   background-size: 148px 30px;
   background-repeat: no-repeat;
-  width: 148px;
+  width: 99px;
 }
 
 .navbar-pf .navbar-utility .dropdown-toggle {
